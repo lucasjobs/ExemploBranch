@@ -1,0 +1,26 @@
+2017-11-16  8:45:31 140166319161920 [Note] InnoDB: innodb_empty_free_list_algorithm has been changed to legacy because of small buffer pool size. In order to use backoff, increase buffer pool at least up to 20MB.
+
+2017-11-16  8:45:31 140166319161920 [Note] InnoDB: Using mutexes to ref count buffer pool pages
+2017-11-16  8:45:31 140166319161920 [Note] InnoDB: The InnoDB memory heap is disabled
+2017-11-16  8:45:31 140166319161920 [Note] InnoDB: Mutexes and rw_locks use GCC atomic builtins
+2017-11-16  8:45:31 140166319161920 [Note] InnoDB: GCC builtin __atomic_thread_fence() is used for memory barrier
+2017-11-16  8:45:31 140166319161920 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2017-11-16  8:45:31 140166319161920 [Note] InnoDB: Using Linux native AIO
+2017-11-16  8:45:31 140166319161920 [Note] InnoDB: Using SSE crc32 instructions
+2017-11-16  8:45:31 140166319161920 [Note] InnoDB: Initializing buffer pool, size = 80.0M
+2017-11-16  8:45:31 140166319161920 [Note] InnoDB: Completed initialization of buffer pool
+2017-11-16  8:45:31 140166319161920 [Note] InnoDB: Highest supported file format is Barracuda.
+InnoDB: No valid checkpoint found.
+InnoDB: If you are attempting downgrade from MySQL 5.7.9 or later,
+InnoDB: please refer to http://dev.mysql.com/doc/refman/5.6/en/upgrading-downgrading.html
+InnoDB: If this error appears when you are creating an InnoDB database,
+InnoDB: the problem may be that during an earlier attempt you managed
+InnoDB: to create the InnoDB data files, but log file creation failed.
+InnoDB: If that is the case, please refer to
+InnoDB: http://dev.mysql.com/doc/refman/5.6/en/error-creating-innodb.html
+2017-11-16  8:45:31 140166319161920 [ERROR] Plugin 'InnoDB' init function returned error.
+2017-11-16  8:45:31 140166319161920 [ERROR] Plugin 'InnoDB' registration as a STORAGE ENGINE failed.
+2017-11-16  8:45:31 140166319161920 [Note] Plugin 'FEEDBACK' is disabled.
+2017-11-16  8:45:31 140166319161920 [ERROR] Unknown/unsupported storage engine: innodb
+2017-11-16  8:45:31 140166319161920 [ERROR] Aborting
+

@@ -1,0 +1,9 @@
+Database process exited unexpectedly during initial connection! 
+executable: "/usr/sbin/mysqld-akonadi" 
+arguments: ("--defaults-file=/home/lusca1533/.local/share/akonadi/mysql.conf", "--datadir=/home/lusca1533/.local/share/akonadi/db_data/", "--socket=/tmp/akonadi-lusca1533.rjWATq/mysql.socket") 
+stdout: "" 
+stderr: "2017-11-16  8:45:31 140166319161920 [Note] /usr/sbin/mysqld (mysqld 10.1.25-MariaDB-) starting as process 2632 ...\n" 
+exit code: 1 
+process error: "Unknown error" 
+Failed to remove Unix socket 
+Failed to remove runtime connection config file 

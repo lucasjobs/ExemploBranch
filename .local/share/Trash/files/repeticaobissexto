@@ -1,0 +1,12 @@
+#!/bin/bash
+contador=1
+while [ $contador -le 1930 ]
+do
+rs=$(($contador%4))
+if [ $rs -eq 0 ] ; then
+echo "bissexto"
+else
+echo "Nao"
+fi
+contador=$(($contador+1))
+done

@@ -1,0 +1,555 @@
+Xsession: X session started for lusca1533 at qui nov 16 08:45:09 -02 2017
+localuser:lusca1533 being added to access control list
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting QT_LINUX_ACCESSIBILITY_ALWAYS_ON=1
+dbus-update-activation-environment: warning: error sending to systemd: org.freedesktop.DBus.Error.Spawn.ChildExited: Process org.freedesktop.systemd1 exited with status 1
+OpenGL version: 3.
+dbus-update-activation-environment: setting LC_MEASUREMENT=pt_BR
+dbus-update-activation-environment: setting LC_PAPER=pt_BR
+dbus-update-activation-environment: setting LC_MONETARY=pt_BR
+dbus-update-activation-environment: setting LANG=pt_BR.UTF-8
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting PAM_KWALLET5_LOGIN=/run/user/1000/kwallet5.socket
+dbus-update-activation-environment: setting MANDATORY_PATH=/usr/share/gconf//usr/share/xsessions/plasma.mandatory.path
+dbus-update-activation-environment: setting LC_NAME=pt_BR
+dbus-update-activation-environment: setting USER=lusca1533
+dbus-update-activation-environment: setting DESKTOP_SESSION=/usr/share/xsessions/plasma
+dbus-update-activation-environment: setting DEFAULTS_PATH=/usr/share/gconf//usr/share/xsessions/plasma.default.path
+dbus-update-activation-environment: setting PWD=/home/lusca1533
+dbus-update-activation-environment: setting HOME=/home/lusca1533
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting XDG_SESSION_TYPE=x11
+dbus-update-activation-environment: setting XDG_DATA_DIRS=/usr/share//usr/share/xsessions/plasma:/usr/local/share/:/usr/share/:/var/lib/snapd/desktop
+dbus-update-activation-environment: setting XDG_SESSION_DESKTOP=KDE
+dbus-update-activation-environment: setting LC_ADDRESS=pt_BR
+dbus-update-activation-environment: setting LC_NUMERIC=pt_BR
+dbus-update-activation-environment: setting SHELL=/bin/bash
+dbus-update-activation-environment: setting XDG_SESSION_CLASS=user
+dbus-update-activation-environment: setting XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0
+dbus-update-activation-environment: setting IM_CONFIG_PHASE=1
+dbus-update-activation-environment: setting XDG_CURRENT_DESKTOP=KDE
+dbus-update-activation-environment: setting QT_LINUX_ACCESSIBILITY_ALWAYS_ON=1
+dbus-update-activation-environment: setting SHLVL=1
+dbus-update-activation-environment: setting LANGUAGE=pt_BR:pt:en
+dbus-update-activation-environment: setting LC_TELEPHONE=pt_BR
+dbus-update-activation-environment: setting LOGNAME=lusca1533
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:abstract=/tmp/dbus-JZjI1K0YsD,guid=bfe2f8b80a00f2fd6b0b98745a0d6c38
+dbus-update-activation-environment: setting XDG_RUNTIME_DIR=/run/user/1000
+dbus-update-activation-environment: setting PAM_KWALLET_LOGIN=/run/user/1000/kwallet.socket
+dbus-update-activation-environment: setting XAUTHORITY=/home/lusca1533/.Xauthority
+dbus-update-activation-environment: setting XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session1
+dbus-update-activation-environment: setting XDG_CONFIG_DIRS=/etc/xdg/xdg-/usr/share/xsessions/plasma:/etc/xdg:/usr/share/kubuntu-default-settings/kf5-settings
+dbus-update-activation-environment: setting PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
+dbus-update-activation-environment: setting LC_IDENTIFICATION=pt_BR
+dbus-update-activation-environment: setting LC_TIME=pt_BR
+dbus-update-activation-environment: setting _=/usr/bin/dbus-update-activation-environment
+dbus-update-activation-environment: warning: error sending to systemd: org.freedesktop.DBus.Error.Spawn.ChildExited: Process org.freedesktop.systemd1 exited with status 1
+Loading stage  "initial" 259
+startkde: Starting up...
+dbus-update-activation-environment: warning: error sending to systemd: org.freedesktop.DBus.Error.Spawn.ChildExited: Process org.freedesktop.systemd1 exited with status 1
+kdeinit5: preparing to launch '/usr/lib/x86_64-linux-gnu/libexec/kf5/klauncher'
+kdeinit5: Launched KLauncher, pid = 2397, result = 0
+Connecting to deprecated signal QDBusConnectionInterface::serviceOwnerChanged(QString,QString,QString)
+kdeinit5: opened connection to :0
+kdeinit5: preparing to launch 'libkdeinit5_kded5'
+kdeinit5: Launched KDED, pid = 2400 result = 0
+kdeinit5: preparing to launch 'libkdeinit5_kcminit_startup'
+kdeinit5: Launched 'kcminit_startup', pid = 2401 result = 0
+kf5.kded: No X-KDE-DBus-ServiceName found in "/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kded/khotkeys.so"
+kf5.kded: No X-KDE-DBus-ServiceName found in "/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kded/ksysguard.so"
+kf5.kded: No X-KDE-DBus-ServiceName found in "/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kded/device_automounter.so"
+kf5.kded: No X-KDE-DBus-ServiceName found in "/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kded/networkstatus.so"
+kf5.kded: No X-KDE-DBus-ServiceName found in "/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kded/kwrited.so"
+kf5.kded: No X-KDE-DBus-ServiceName found in "/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kded/kscreen.so"
+kf5.kded: No X-KDE-DBus-ServiceName found in "/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kded/statusnotifierwatcher.so"
+kf5.kded: No X-KDE-DBus-ServiceName found in "/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kded/ktimezoned.so"
+kf5.kded: No X-KDE-DBus-ServiceName found in "/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kded/freespacenotifier.so"
+kf5.kded: No X-KDE-DBus-ServiceName found in "/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kded/filenamesearchmodule.so"
+kf5.kded: No X-KDE-DBus-ServiceName found in "/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kded/soliduiserver.so"
+kf5.kded: No X-KDE-DBus-ServiceName found in "/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kded/networkmanagement.so"
+kf5.kded: No X-KDE-DBus-ServiceName found in "/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kded/solidautoeject.so"
+kf5.kded: No X-KDE-DBus-ServiceName found in "/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kded/desktopnotifier.so"
+kf5.kded: No X-KDE-DBus-ServiceName found in "/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kded/keyboard.so"
+kf5.kded: No X-KDE-DBus-ServiceName found in "/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kded/baloosearchmodule.so"
+kf5.kded: No X-KDE-DBus-ServiceName found in "/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kded/remotedirnotify.so"
+kf5.kded: No X-KDE-DBus-ServiceName found in "/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kded/networkwatcher.so"
+kf5.kded: No X-KDE-DBus-ServiceName found in "/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kded/appmenu.so"
+kf5.kded: No X-KDE-DBus-ServiceName found in "/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kded/proxyscout.so"
+kf5.kded: No X-KDE-DBus-ServiceName found in "/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kded/bluedevil.so"
+kf5.kded: No X-KDE-DBus-ServiceName found in "/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kded/recentdocumentsnotifier.so"
+kdeinit5: Got SETENV 'KDE_MULTIHEAD=false' from launcher.
+Initializing  "kcm_input" :  "kcminit_mouse"
+Initializing  "kcm_access" :  "kcminit_access"
+kdeinit5: Got EXEC_NEW '/usr/bin/kaccess' from launcher.
+kdeinit5: preparing to launch '/usr/bin/kaccess'
+Initializing  "kcm_kgamma" :  "kcminit_kgamma"
+Initializing  "kcm_style" :  "kcminit_style"
+kdeinit5: PID 2407 terminated.
+Loaded KAccounts plugin "/usr/lib/x86_64-linux-gnu/qt5/plugins/kaccounts/daemonplugins/kaccounts_ktp_plugin.so"
+kf5.kded: found kded module "printmanager" by prepending 'kded_' to the library path, please fix your metadata.
+kf5.kcoreaddons.kaboutdata: Could not initialize the equivalent properties of Q*Application: no instance (yet) existing.
+kdeinit5: Got EXEC_NEW '/usr/lib/x86_64-linux-gnu/libexec/kf5/kconf_update' from launcher.
+kdeinit5: preparing to launch '/usr/lib/x86_64-linux-gnu/libexec/kf5/kconf_update'
+kdeinit5: PID 2413 terminated.
+kdeinit5: Got SETENV 'GTK_RC_FILES=/etc/gtk/gtkrc:/home/lusca1533/.gtkrc:/home/lusca1533/.config/gtkrc' from launcher.
+kdeinit5: Got SETENV 'GTK2_RC_FILES=/etc/gtk-2.0/gtkrc:/home/lusca1533/.gtkrc-2.0:/home/lusca1533/.config/gtkrc-2.0' from launcher.
+Initializing  "kded_touchpad" :  "kcminit_touchpad"
+kcm_touchpad: Using X11 backend
+kdeinit5: PID 2401 terminated.
+detected kglobalaccel restarting, re-registering all shortcut keys
+kdeinit5: Got KWRAPPER '/usr/bin/ksmserver' from wrapper.
+kdeinit5: preparing to launch '/usr/bin/ksmserver'
+kscreen.kded: Config KScreen::Config(0x55686a3c7920) is ready
+kscreen.kded: PowerDevil SuspendSession action not available!
+kscreen.kded: "The name org.kde.Solid.PowerManagement was not provided by any .service files"
+kscreen.kded: Applying config
+kscreen.kded: Applying known config "6d06a8dedf129eba6122fca801da504f"
+
+kscreen.kded: Finding a mode for QSize(1600, 795) @ 59.9447
+kscreen.kded: 	Found:  "66"   QSize(1600, 795) @ 59.9447
+kscreen.kded: doApplyConfig()
+kscreen: Requesting missing EDID for outputs (64)
+kscreen.kded: Config applied
+kscreen.kded: Monitor for changes:  true
+kscreen.kded: Change detected
+kscreen.kded: KScreen::Output( 64   "VGA-1" connected enabled QPoint(0,0) QSize(1600, 795) "66" )
+Qt: Session management error: networkIdsList argument is NULL
+Starting accounts migration...
+Configuring Lock Action
+ksmserver: "/run/user/1000/KSMserver"
+kdeinit5: Got SETENV 'SESSION_MANAGER=local/Luscaserve:@/tmp/.ICE-unix/2445,unix/Luscaserve:/tmp/.ICE-unix/2445' from launcher.
+ksmserver: KSMServer: SetAProc_loc: conn  0 , prot= local , file= @/tmp/.ICE-unix/2445
+ksmserver: KSMServer: SetAProc_loc: conn  1 , prot= unix , file= /tmp/.ICE-unix/2445
+ksmserver: KSMServer::restoreSession  "saved at previous logout"
+ksmserver: Starting autostart service  "/etc/xdg/autostart/baloo_file.desktop"
+ksmserver: Starting autostart service  "/etc/xdg/autostart/kdeconnectd.desktop"
+ksmserver: Starting autostart service  "/etc/xdg/autostart/krunner.desktop"
+ksmserver: Starting autostart service  "/etc/xdg/autostart/pam_kwallet_init.desktop"
+ksmserver: Starting autostart service  "/etc/xdg/autostart/plasmashell.desktop"
+ksmserver: Starting autostart service  "/etc/xdg/autostart/polkit-kde-authentication-agent-1.desktop"
+ksmserver: Starting autostart service  "/etc/xdg/autostart/xembedsniproxy.desktop"
+ksmserver: Autostart 0 done
+ksmserver: Kcminit phase 1 done
+Session path: "/org/freedesktop/login1/session/_33"
+ksmserver: Starting autostart service  "/etc/xdg/autostart/pulseaudio.desktop"
+ksmserver: Autostart 1 done
+kscreen.kded: Saving current config to file
+kscreen.kded: Config saved on:  "/home/lusca1533/.local/share/kscreen/6d06a8dedf129eba6122fca801da504f"
+kscreen.kded: KScreen::Output( 64   "VGA-1" connected enabled QPoint(0,0) QSize(1600, 795) "66" )
+ktp-common-internals: Current presence changed
+ktp-common-internals: Current presence changed
+kf5.kcoreaddons.kaboutdata: Could not initialize the equivalent properties of Q*Application: no instance (yet) existing.
+Installing the delayed initialization callback.
+Trying to convert empty KLocalizedString to QString.
+Trying to convert empty KLocalizedString to QString.
+Trying to convert empty KLocalizedString to QString.
+org.kde.kcm_keyboard: Failed to open layout memory xml file for reading "/home/lusca1533/.local/share/kded5/keyboard/session/layout_memory.xml" error: 5
+bluedevil: Created
+kf5.kded: found kded module "touchpad" by prepending 'kded_' to the library path, please fix your metadata.
+kcm_touchpad: Using X11 backend
+kf5.kded: found kded module "notificationhelper" by prepending 'kded_' to the library path, please fix your metadata.
+Delayed initialization.
+Reloading the khotkeys configuration
+ksmserver: Starting notification thread
+ksmserver: Kcminit phase 2 done
+ksmserver: Starting autostart service  "/etc/xdg/autostart/at-spi-dbus-bus.desktop"
+Version 2 File!
+ksmserver: Starting autostart service  "/etc/xdg/autostart/org.kde.korgac.desktop"
+ksmserver: Starting autostart service  "/etc/xdg/autostart/powerdevil.desktop"
+ksmserver: Autostart 2 done
+ksmserver: autostart service ("/usr/share/libpam-kwallet-common/pam_kwallet_init") finished with exit code  0
+true
+New PolkitAgentListener  0x556eb6f5b2e0
+Adding new listener  PolkitQt1::Agent::Listener(0x556eb6f820b0) for  0x556eb6f5b2e0
+Listener online
+Authentication agent result: true
+kdeconnect.core: KdeConnect daemon starting
+Imported file "/usr/share/khotkeys/konqueror_gestures_kde321.khotkeys"
+Activating service name='org.a11y.atspi.Registry'
+Imported file "/usr/share/khotkeys/defaults.khotkeys"
+Imported file "/usr/share/khotkeys/spectacle.khotkeys"
+Imported file "/usr/share/khotkeys/kde32b1.khotkeys"
+Falha ao abrir o arquivo de som.
+Successfully activated service 'org.a11y.atspi.Registry'
+bluedevil: ObexManager operational changed false
+ksmserver: autostart service ("/usr/bin/start-pulseaudio-x11") finished with exit code  1
+bluedevil: Bluetooth operational changed true
+bluedevil: Agent registered
+bluedevil: Requested default Agent
+QDBusArgument: read from a write-only object
+QDBusArgument: read from a write-only object
+QDBusArgument: read from a write-only object
+kdeconnect.core: onStart
+kdeconnect.core: KdeConnect daemon started
+kdeconnect.core: Broadcasting identity packet
+ksmserver: completeShutdownOrCheckpoint called
+powerdevil: Backend loaded, loading core
+powerdevil: Core loaded, initializing backend
+powerdevil: No outputs have backlight property
+powerdevil: Falling back to helper to get brightness
+OpenGL vendor string:                   VMware, Inc.
+OpenGL renderer string:                 Gallium 0.4 on llvmpipe (LLVM 4.0, 256 bits)
+OpenGL version string:                  3.0 Mesa 17.0.7
+OpenGL shading language version string: 1.30
+Driver:                                 LLVMpipe
+GPU class:                              Unknown
+OpenGL version:                         3.0
+GLSL version:                           1.30
+Mesa version:                           17.0.7
+X server version:                       1.19.3
+Linux kernel version:                   4.10
+Requires strict binding:                yes
+GLSL shaders:                           yes
+Texture NPOT support:                   yes
+Virtual Machine:                        no
+powerdevil: org.kde.powerdevil.backlighthelper.brightness failed
+powerdevil: ""
+powerdevil: Backend is ready, KDE Power Management system initialized
+powerdevil: Session path: "/org/freedesktop/login1/session/_33"
+powerdevil: ACTIVE SESSION PATH: "/org/freedesktop/login1/session/_33"
+powerdevil: Current session is now active
+powerdevil: fd passing available: true
+powerdevil: systemd powersave events handling inhibited, descriptor: 19
+powerdevil: systemd support initialized
+powerdevil: Got a valid offer for  "DPMSControl"
+networkmanager-qt: void NetworkManager::NetworkManagerPrivate::propertiesChanged(const QVariantMap&) Unhandled property "AllDevices"
+networkmanager-qt: void NetworkManager::NetworkManagerPrivate::propertiesChanged(const QVariantMap&) Unhandled property "Devices"
+networkmanager-qt: void NetworkManager::NetworkManagerPrivate::propertiesChanged(const QVariantMap&) Unhandled property "GlobalDnsConfiguration"
+powerdevil: Core is ready, registering various services on the bus...
+powerdevil: Can't contact ck
+powerdevil: We are now into activity  "00000000-0000-0000-0000-000000000000"
+powerdevil: () ()
+powerdevil: () ()
+powerdevil: No batteries found, loading AC
+powerdevil: Activity is not forcing a profile
+powerdevil: The profile  "AC" tried to activate "DimDisplay" a non-existent action. This is usually due to an installation problem, or to a configuration problem, or simply the action is not supported
+powerdevil: Handle button events action could not check for screen configuration
+powerdevil: Can't contact ck
+kf5.kcoreaddons.desktopparser: Could not locate service type file kservicetypes5/plasma-popupapplet.desktop, tried ("/home/lusca1533/.local/share", "/usr/share/usr/share/xsessions/plasma", "/usr/local/share", "/usr/share", "/var/lib/snapd/desktop")
+kf5.kcoreaddons.desktopparser: Could not locate service type file kservicetypes5/kwin-effect.desktop, tried ("/home/lusca1533/.local/share", "/usr/share/usr/share/xsessions/plasma", "/usr/local/share", "/usr/share", "/var/lib/snapd/desktop")
+kf5.kcoreaddons.desktopparser: Could not locate service type file kservicetypes5/kwin-effect.desktop, tried ("/home/lusca1533/.local/share", "/usr/share/usr/share/xsessions/plasma", "/usr/local/share", "/usr/share", "/var/lib/snapd/desktop")
+kf5.kcoreaddons.desktopparser: Could not locate service type file kservicetypes5/kwin-effect.desktop, tried ("/home/lusca1533/.local/share", "/usr/share/usr/share/xsessions/plasma", "/usr/local/share", "/usr/share", "/var/lib/snapd/desktop")
+kf5.kcoreaddons.desktopparser: Could not locate service type file kservicetypes5/kwin-script.desktop, tried ("/home/lusca1533/.local/share", "/usr/share/usr/share/xsessions/plasma", "/usr/local/share", "/usr/share", "/var/lib/snapd/desktop")
+kf5.kcoreaddons.desktopparser: Could not locate service type file kservicetypes5/kwin-effect.desktop, tried ("/home/lusca1533/.local/share", "/usr/share/usr/share/xsessions/plasma", "/usr/local/share", "/usr/share", "/var/lib/snapd/desktop")
+kf5.kcoreaddons.desktopparser: Could not locate service type file kservicetypes5/kwin-script.desktop, tried ("/home/lusca1533/.local/share", "/usr/share/usr/share/xsessions/plasma", "/usr/local/share", "/usr/share", "/var/lib/snapd/desktop")
+kf5.kcoreaddons.desktopparser: Could not locate service type file kservicetypes5/plasma-popupapplet.desktop, tried ("/home/lusca1533/.local/share", "/usr/share/usr/share/xsessions/plasma", "/usr/local/share", "/usr/share", "/var/lib/snapd/desktop")
+kf5.kcoreaddons.desktopparser: Could not locate service type file kservicetypes5/kwin-effect.desktop, tried ("/home/lusca1533/.local/share", "/usr/share/usr/share/xsessions/plasma", "/usr/local/share", "/usr/share", "/var/lib/snapd/desktop")
+kf5.kcoreaddons.desktopparser: Could not locate service type file kservicetypes5/kwin-script.desktop, tried ("/home/lusca1533/.local/share", "/usr/share/usr/share/xsessions/plasma", "/usr/local/share", "/usr/share", "/var/lib/snapd/desktop")
+kf5.kcoreaddons.desktopparser: Could not locate service type file kservicetypes5/kwin-script.desktop, tried ("/home/lusca1533/.local/share", "/usr/share/usr/share/xsessions/plasma", "/usr/local/share", "/usr/share", "/var/lib/snapd/desktop")
+kf5.kcoreaddons.desktopparser: Could not locate service type file kservicetypes5/kwin-effect.desktop, tried ("/home/lusca1533/.local/share", "/usr/share/usr/share/xsessions/plasma", "/usr/local/share", "/usr/share", "/var/lib/snapd/desktop")
+kf5.kcoreaddons.desktopparser: Could not locate service type file kservicetypes5/kwin-script.desktop, tried ("/home/lusca1533/.local/share", "/usr/share/usr/share/xsessions/plasma", "/usr/local/share", "/usr/share", "/var/lib/snapd/desktop")
+kf5.kcoreaddons.desktopparser: Could not locate service type file kservicetypes5/kwin-effect.desktop, tried ("/home/lusca1533/.local/share", "/usr/share/usr/share/xsessions/plasma", "/usr/local/share", "/usr/share", "/var/lib/snapd/desktop")
+kf5.kcoreaddons.desktopparser: Could not locate service type file kservicetypes5/kwin-effect.desktop, tried ("/home/lusca1533/.local/share", "/usr/share/usr/share/xsessions/plasma", "/usr/local/share", "/usr/share", "/var/lib/snapd/desktop")
+kf5.kcoreaddons.desktopparser: Could not locate service type file kservicetypes5/kwin-effect.desktop, tried ("/home/lusca1533/.local/share", "/usr/share/usr/share/xsessions/plasma", "/usr/local/share", "/usr/share", "/var/lib/snapd/desktop")
+kf5.kcoreaddons.desktopparser: Could not locate service type file kservicetypes5/kwin-effect.desktop, tried ("/home/lusca1533/.local/share", "/usr/share/usr/share/xsessions/plasma", "/usr/local/share", "/usr/share", "/var/lib/snapd/desktop")
+Config timer connecting...
+powerdevil: Can't contact ck
+powerdevil: We are now into activity  "85a63dd8-84f1-476d-8ea3-0d2a84c65c2d"
+powerdevil: () ()
+powerdevil: () ()
+powerdevil: No batteries found, loading AC
+powerdevil: Activity is not forcing a profile
+powerdevil: Skipping action reload routine as profile has not changed
+Setting the name of  0x55be79531470  to  "org.kde.ActivityManager.RunApplication"
+Setting the name of  0x55be79529950  to  "org.kde.ActivityManager.ActivityTemplates"
+Setting the name of  0x55be7955b530  to  "org.kde.ActivityManager.Resources.Scoring"
+Creating directory:  "/home/lusca1533/.local/share/kactivitymanagerd/resources/"
+KActivities: Database connection:  "kactivities_db_resources_139869553543360_readwrite" 
+    query_only:          QVariant(qlonglong, 0) 
+    journal_mode:        QVariant(QString, "wal") 
+    wal_autocheckpoint:  QVariant(qlonglong, 100) 
+    synchronous:         QVariant(qlonglong, 1)
+Service started, version: 7.0.0
+Cleaning up...
+Service started, version: 7.0.0
+Cleaning up...
+Service started, version: 7.0.0
+Cleaning up...
+QXcbConnection: XCB error: 3 (BadWindow), sequence: 1014, resource id: 60817412, major code: 18 (ChangeProperty), minor code: 0
+QXcbConnection: XCB error: 3 (BadWindow), sequence: 1018, resource id: 58720260, major code: 18 (ChangeProperty), minor code: 0
+QXcbConnection: XCB error: 3 (BadWindow), sequence: 1022, resource id: 62914564, major code: 18 (ChangeProperty), minor code: 0
+bluedevil: ObexManager operational changed true
+bluedevil: ObexAgent registered
+log_kidentitymanagement: IdentityManager: There was no default identity. Marking first one as default.
+Connecting to deprecated signal QDBusConnectionInterface::serviceOwnerChanged(QString,QString,QString)
+akonadiprivate_log: search paths:  ("/usr/local/sbin", "/usr/local/bin", "/usr/sbin", "/usr/bin", "/sbin", "/bin", "/usr/games", "/usr/local/games", "/snap/bin", "/usr/sbin", "/usr/local/sbin", "/usr/local/libexec", "/usr/libexec", "/opt/mysql/libexec", "/opt/local/lib/mysql5/bin", "/opt/mysql/sbin")
+akonadicore_log: Socket error occurred: "QLocalSocket::connectToServer: Invalid name"
+akonadicore_log: Socket error occurred: "QLocalSocket::connectToServer: Invalid name"
+org.kde.akonadi.ETM: GEN true false true
+Registering "org.kde.StatusNotifierItem-2542-1/StatusNotifierItem" to system tray
+Found mysql_install_db:  "/usr/bin/mysql_install_db"
+Found mysqlcheck:  "/usr/bin/mysqlcheck"
+Using mysqld: "/usr/sbin/mysqld-akonadi"
+org.kde.akonadi.ETM: collection: QVector()
+mysqld reports version 10.1.25 (MariaDB)
+Executing: "/usr/sbin/mysqld-akonadi" "--defaults-file=/home/lusca1533/.local/share/akonadi/mysql.conf --datadir=/home/lusca1533/.local/share/akonadi/db_data/ --socket=/tmp/akonadi-lusca1533.rjWATq/mysql.socket"
+org.kde.baloo: "/home/lusca1533"
+Power state changed
+kf5.kcoreaddons.desktopparser: Could not locate service type file kservicetypes5/plasma-popupapplet.desktop, tried ("/home/lusca1533/.local/share", "/usr/share/usr/share/xsessions/plasma", "/usr/local/share", "/usr/share", "/var/lib/snapd/desktop")
+kf5.kcoreaddons.desktopparser: Could not locate service type file kservicetypes5/plasma-popupapplet.desktop, tried ("/home/lusca1533/.local/share", "/usr/share/usr/share/xsessions/plasma", "/usr/local/share", "/usr/share", "/var/lib/snapd/desktop")
+kdeinit5: Got EXEC_NEW '/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/desktop.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/desktop.so'
+Couldn't find node arrow-down. Skipping rendering.
+kdeinit5: Got EXEC_NEW '/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/file.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/file.so'
+Couldn't find node arrow-up. Skipping rendering.
+Couldn't find node arrow-right. Skipping rendering.
+Couldn't find node arrow-left. Skipping rendering.
+Database process exited unexpectedly during initial connection!
+executable: "/usr/sbin/mysqld-akonadi"
+arguments: ("--defaults-file=/home/lusca1533/.local/share/akonadi/mysql.conf", "--datadir=/home/lusca1533/.local/share/akonadi/db_data/", "--socket=/tmp/akonadi-lusca1533.rjWATq/mysql.socket")
+stdout: ""
+stderr: "2017-11-16  8:45:31 140166319161920 [Note] /usr/sbin/mysqld (mysqld 10.1.25-MariaDB-) starting as process 2632 ...\n"
+exit code: 1
+process error: "Unknown error"
+terminating service threads
+terminating connection threads
+stopping db process
+/usr/bin/mysqladmin: connect to server at 'localhost' failed
+error: 'Can't connect to local MySQL server through socket '/tmp/akonadi-lusca1533.rjWATq/mysql.socket' (2 "No such file or directory")'
+Check that mysqld is running and that the socket: '/tmp/akonadi-lusca1533.rjWATq/mysql.socket' exists!
+Failed to remove Unix socket
+Failed to remove runtime connection config file
+Application 'akonadiserver' exited normally...
+akonadicore_log: Job error:  "Unknown error." for collection: QVector() 
+
+QXcbConnection: XCB error: 3 (BadWindow), sequence: 4063, resource id: 60817412, major code: 18 (ChangeProperty), minor code: 0
+Connecting to deprecated signal QDBusConnectionInterface::serviceOwnerChanged(QString,QString,QString)
+Trying to use rootObject before initialization is completed, whilst using setInitializationDelayed. Forcing completion
+Both point size and pixel size set. Using pixel size.
+Both point size and pixel size set. Using pixel size.
+Both point size and pixel size set. Using pixel size.
+Registering "org.kde.StatusNotifierHost-2460" as system tray
+libkcups: Get-Jobs last error: 0 successful-ok
+libkcups: Get-Jobs last error: 0 successful-ok
+libkcups: Create-Printer-Subscriptions last error: 0 successful-ok
+kf5.kcoreaddons.desktopparser: Could not locate service type file kservicetypes5/plasma-popupapplet.desktop, tried ("/home/lusca1533/.local/share", "/usr/share/usr/share/xsessions/plasma", "/usr/local/share", "/usr/share", "/var/lib/snapd/desktop")
+kf5.kcoreaddons.desktopparser: Could not locate service type file kservicetypes5/plasma-popupapplet.desktop, tried ("/home/lusca1533/.local/share", "/usr/share/usr/share/xsessions/plasma", "/usr/local/share", "/usr/share", "/var/lib/snapd/desktop")
+kf5.kcoreaddons.desktopparser: Could not locate service type file kservicetypes5/plasma-popupapplet.desktop, tried ("/home/lusca1533/.local/share", "/usr/share/usr/share/xsessions/plasma", "/usr/local/share", "/usr/share", "/var/lib/snapd/desktop")
+kf5.kcoreaddons.desktopparser: Could not locate service type file kservicetypes5/plasma-popupapplet.desktop, tried ("/home/lusca1533/.local/share", "/usr/share/usr/share/xsessions/plasma", "/usr/local/share", "/usr/share", "/var/lib/snapd/desktop")
+kf5.kcoreaddons.desktopparser: Could not locate service type file kservicetypes5/plasma-popupapplet.desktop, tried ("/home/lusca1533/.local/share", "/usr/share/usr/share/xsessions/plasma", "/usr/local/share", "/usr/share", "/var/lib/snapd/desktop")
+kf5.kcoreaddons.desktopparser: Could not locate service type file kservicetypes5/plasma-popupapplet.desktop, tried ("/home/lusca1533/.local/share", "/usr/share/usr/share/xsessions/plasma", "/usr/local/share", "/usr/share", "/var/lib/snapd/desktop")
+kf5.kcoreaddons.desktopparser: Could not locate service type file kservicetypes5/plasma-popupapplet.desktop, tried ("/home/lusca1533/.local/share", "/usr/share/usr/share/xsessions/plasma", "/usr/local/share", "/usr/share", "/var/lib/snapd/desktop")
+kf5.kcoreaddons.desktopparser: Could not locate service type file kservicetypes5/plasma-popupapplet.desktop, tried ("/home/lusca1533/.local/share", "/usr/share/usr/share/xsessions/plasma", "/usr/local/share", "/usr/share", "/var/lib/snapd/desktop")
+kf5.kcoreaddons.desktopparser: Could not locate service type file kservicetypes5/plasma-popupapplet.desktop, tried ("/home/lusca1533/.local/share", "/usr/share/usr/share/xsessions/plasma", "/usr/local/share", "/usr/share", "/var/lib/snapd/desktop")
+kf5.kcoreaddons.desktopparser: Could not locate service type file kservicetypes5/plasma-popupapplet.desktop, tried ("/home/lusca1533/.local/share", "/usr/share/usr/share/xsessions/plasma", "/usr/local/share", "/usr/share", "/var/lib/snapd/desktop")
+Trying to use rootObject before initialization is completed, whilst using setInitializationDelayed. Forcing completion
+kdeconnect.core: Sending onNetworkChange to  1  LinkProviders
+kdeconnect.core: Broadcasting identity packet
+Notifications service registered
+QXcbConnection: XCB error: 3 (BadWindow), sequence: 5439, resource id: 10485792, major code: 18 (ChangeProperty), minor code: 0
+Plasma Shell startup completed
+kdeinit5: Got EXEC_NEW '/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/trash.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/trash.so'
+libkcups: 0
+libkcups: 0
+Both point size and pixel size set. Using pixel size.
+networkmanager-qt: void NetworkManager::NetworkManagerPrivate::propertiesChanged(const QVariantMap&) Unhandled property "AllDevices"
+networkmanager-qt: void NetworkManager::NetworkManagerPrivate::propertiesChanged(const QVariantMap&) Unhandled property "Devices"
+networkmanager-qt: void NetworkManager::NetworkManagerPrivate::propertiesChanged(const QVariantMap&) Unhandled property "GlobalDnsConfiguration"
+networkmanager-qt: virtual void NetworkManager::DevicePrivate::propertyChanged(const QString&, const QVariant&) Unhandled property "LldpNeighbors"
+networkmanager-qt: virtual void NetworkManager::DevicePrivate::propertyChanged(const QString&, const QVariant&) Unhandled property "Real"
+networkmanager-qt: virtual void NetworkManager::DevicePrivate::propertyChanged(const QString&, const QVariant&) Unhandled property "LldpNeighbors"
+networkmanager-qt: virtual void NetworkManager::DevicePrivate::propertyChanged(const QString&, const QVariant&) Unhandled property "Real"
+networkmanager-qt: virtual void NetworkManager::DevicePrivate::propertyChanged(const QString&, const QVariant&) Unhandled property "LldpNeighbors"
+networkmanager-qt: virtual void NetworkManager::DevicePrivate::propertyChanged(const QString&, const QVariant&) Unhandled property "Real"
+networkmanager-qt: virtual void NetworkManager::DevicePrivate::propertyChanged(const QString&, const QVariant&) Unhandled property "LldpNeighbors"
+networkmanager-qt: virtual void NetworkManager::DevicePrivate::propertyChanged(const QString&, const QVariant&) Unhandled property "Real"
+networkmanager-qt: virtual void NetworkManager::DevicePrivate::propertyChanged(const QString&, const QVariant&) Unhandled property "S390Subchannels"
+networkmanager-qt: void NetworkManager::NetworkManagerPrivate::propertiesChanged(const QVariantMap&) Unhandled property "AllDevices"
+networkmanager-qt: void NetworkManager::NetworkManagerPrivate::propertiesChanged(const QVariantMap&) Unhandled property "Devices"
+networkmanager-qt: void NetworkManager::NetworkManagerPrivate::propertiesChanged(const QVariantMap&) Unhandled property "GlobalDnsConfiguration"
+networkmanager-qt: virtual void NetworkManager::DevicePrivate::propertyChanged(const QString&, const QVariant&) Unhandled property "LldpNeighbors"
+networkmanager-qt: virtual void NetworkManager::DevicePrivate::propertyChanged(const QString&, const QVariant&) Unhandled property "Real"
+networkmanager-qt: virtual void NetworkManager::DevicePrivate::propertyChanged(const QString&, const QVariant&) Unhandled property "LldpNeighbors"
+networkmanager-qt: virtual void NetworkManager::DevicePrivate::propertyChanged(const QString&, const QVariant&) Unhandled property "Real"
+networkmanager-qt: virtual void NetworkManager::DevicePrivate::propertyChanged(const QString&, const QVariant&) Unhandled property "LldpNeighbors"
+networkmanager-qt: virtual void NetworkManager::DevicePrivate::propertyChanged(const QString&, const QVariant&) Unhandled property "Real"
+networkmanager-qt: virtual void NetworkManager::DevicePrivate::propertyChanged(const QString&, const QVariant&) Unhandled property "LldpNeighbors"
+networkmanager-qt: virtual void NetworkManager::DevicePrivate::propertyChanged(const QString&, const QVariant&) Unhandled property "Real"
+networkmanager-qt: virtual void NetworkManager::DevicePrivate::propertyChanged(const QString&, const QVariant&) Unhandled property "S390Subchannels"
+file:///usr/share/plasma/plasmoids/org.kde.plasma.battery/contents/ui/CompactRepresentation.qml:54:39: Unable to assign [undefined] to int
+kdeinit5: Got EXEC_NEW '/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/trash.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/trash.so'
+ktp-common-internals: Current presence changed
+ktp-common-internals: Current presence changed
+file:///usr/lib/x86_64-linux-gnu/qt5/qml/QtQuick/Controls/Button.qml:99: TypeError: Cannot read property of null
+ApportEvent :: hidden= false apport-kde= true apport-gtk= false
+Using ApportEvent
+""
+foundCrashFile false foundAutoUpload false
+Currrent active notifications: QHash()
+Guessing partOf as: 0
+ New Notification:  "Auxiliar de Notificação do Sistema" "Pacotes extras podem ser instalados para melhorar a funcionalidade do Firefox" 10000 & Part of: 0
+Couldn't find node shadow. Skipping rendering.
+KDE Languages: ()
+("pt_BR.UTF-8", "pt", "_BR", "BR", ".UTF-8", "UTF-8", "", "")
+System Language Matchables: ("pt_BR", "pt")
+matched "pt_BR"
+  completeness: false
+matched "pt"
+  completeness: false
+Currrent active notifications: QHash(("notification 1", "KDE DaemonAuxiliar de Notificação do Sistema"))
+Guessing partOf as: 1
+ New Notification:  "Auxiliar de Notificação do Sistema" "O suporte ao idioma está incompleto, sendo necessário instalar pacotes adicionais" 10000 & Part of: 1
+Registering "org.kde.StatusNotifierItem-2400-1/StatusNotifierItem" to system tray
+Registering "org.kde.StatusNotifierItem-2400-2/StatusNotifierItem" to system tray
+Registering "org.kde.StatusNotifierItem-2400-1/StatusNotifierItem"
+Registering "org.kde.StatusNotifierItem-2400-2/StatusNotifierItem"
+QQuickItem::stackAfter: Cannot stack after 0x55f2ce18ef40, which must be a sibling
+libkcups: Get-Jobs last error: 0 successful-ok
+libkcups: 0
+libkcups: Get-Jobs last error: 0 successful-ok
+libkcups: 0
+QDBusArgument& operator<<(QDBusArgument&, const DeviceList&) is noop
+const QDBusArgument& operator>>(const QDBusArgument&, DeviceList&)
+Dev(
+  id: "/sys/devices/pci0000:00/0000:00:04.0"
+  modalias: "pci:v000080EEd0000CAFEsv00000000sd00000000bc08sc80i00"
+  model: "VirtualBox Guest Service"
+  vendor: "InnoTek Systemberatung GmbH"
+  driver("virtualbox-guest-dkms" recommended[false] free[false] fromDistro[true] builtin[false] manualInstall[false] fuzzyActive[false] package[0x0])
+)
+Dev(
+  id: "cpu-microcode.py"
+  modalias: ""
+  model: ""
+  vendor: ""
+  driver("intel-microcode" recommended[false] free[false] fromDistro[true] builtin[false] manualInstall[false] fuzzyActive[false] package[0x0])
+)
+Dev(
+  id: "/sys/devices/pci0000:00/0000:00:02.0"
+  modalias: "pci:v000080EEd0000BEEFsv00000000sd00000000bc03sc00i00"
+  model: "VirtualBox Graphics Adapter"
+  vendor: "InnoTek Systemberatung GmbH"
+  driver("virtualbox-guest-x11" recommended[false] free[false] fromDistro[true] builtin[false] manualInstall[false] fuzzyActive[false] package[0x0])
+)
+data  (Dev(
+  id: "/sys/devices/pci0000:00/0000:00:04.0"
+  modalias: "pci:v000080EEd0000CAFEsv00000000sd00000000bc08sc80i00"
+  model: "VirtualBox Guest Service"
+  vendor: "InnoTek Systemberatung GmbH"
+  driver("virtualbox-guest-dkms" recommended[false] free[false] fromDistro[true] builtin[false] manualInstall[false] fuzzyActive[false] package[0x0])
+), Dev(
+  id: "cpu-microcode.py"
+  modalias: ""
+  model: ""
+  vendor: ""
+  driver("intel-microcode" recommended[false] free[false] fromDistro[true] builtin[false] manualInstall[false] fuzzyActive[false] package[0x0])
+), Dev(
+  id: "/sys/devices/pci0000:00/0000:00:02.0"
+  modalias: "pci:v000080EEd0000BEEFsv00000000sd00000000bc03sc00i00"
+  model: "VirtualBox Graphics Adapter"
+  vendor: "InnoTek Systemberatung GmbH"
+  driver("virtualbox-guest-x11" recommended[false] free[false] fromDistro[true] builtin[false] manualInstall[false] fuzzyActive[false] package[0x0])
+))
+Currrent active notifications: QHash()
+Guessing partOf as: 0
+ New Notification:  "Auxiliar de Notificação do Sistema" "Pode ser necessário drivers proprietários para habilitar recursos adicionais" 10000 & Part of: 0
+Registering "org.kde.StatusNotifierItem-2400-3/StatusNotifierItem" to system tray
+Registering "org.kde.StatusNotifierItem-2400-3/StatusNotifierItem"
+QQuickItem::stackAfter: Cannot stack after 0x55f2ce44e3c0, which must be a sibling
+kdeinit5: PID 2652 terminated.
+kdeinit5: PID 2650 terminated.
+kdeinit5: PID 2663 terminated.
+kdeinit5: PID 2658 terminated.
+lock called
+Lock window Id:  33554438
+CreateNotify: 33554438
+CreateNotify: 33554440
+UnmapNotify: 33554438
+CreateNotify: 10485763
+CreateNotify: 10485769
+CreateNotify: 10485773
+CreateNotify: 10485775
+CreateNotify: 10485777
+MapNotify: 10485775
+MapNotify: 33554438
+CreateNotify: 10485779
+file:///usr/share/plasma/look-and-feel/org.kde.breeze.desktop/contents/lockscreen/LockScreenUi.qml:98:103: Unable to assign int to QEasingCurve
+powerdevil: Kbd backlight brightness value:  0
+ktp-kded-module: 
+UnmapNotify: 10485775
+UnmapNotify: 10485775
+CreateNotify: 10485793
+Grab Released
+ktp-kded-module: 
+QXcbConnection: XCB error: 3 (BadWindow), sequence: 33942, resource id: 10485793, major code: 18 (ChangeProperty), minor code: 0
+file:///usr/share/plasma/plasmoids/org.kde.plasma.taskmanager/contents/ui/Task.qml:44:32: Unable to assign [undefined] to int
+QXcbConnection: XCB error: 3 (BadWindow), sequence: 35648, resource id: 44040369, major code: 18 (ChangeProperty), minor code: 0
+Creating the cache for:  "applications:code.desktop"
+Already in database?  true
+      First update :  QDateTime(2017-11-13 09:11:54.000 -02 Qt::TimeSpec(LocalTime))
+       Last update :  QDateTime(2017-11-13 09:11:54.000 -02 Qt::TimeSpec(LocalTime))
+After the adjustment
+     Current score :  0
+      First update :  QDateTime(2017-11-13 09:11:54.000 -02 Qt::TimeSpec(LocalTime))
+       Last update :  QDateTime(2017-11-13 09:11:54.000 -02 Qt::TimeSpec(LocalTime))
+Interval length is  0
+         New score :  1
+ResourceScoreUpdated: "85a63dd8-84f1-476d-8ea3-0d2a84c65c2d" "org.kde.krunner" "applications:code.desktop"
+bash: impossível definir grupo do processo do terminal (-1): ioctl inapropriado para dispositivo
+bash: nenhum controle de trabalho neste shell
+QXcbConnection: XCB error: 3 (BadWindow), sequence: 40874, resource id: 10485801, major code: 15 (QueryTree), minor code: 0
+trying to show an empty dialog
+()
+("/home/lusca1533/Comandosshell/repeticao3.sh")
+()
+lock called
+Lock window Id:  33554444
+CreateNotify: 33554444
+UnmapNotify: 33554444
+CreateNotify: 67108867
+CreateNotify: 67108873
+CreateNotify: 67108877
+CreateNotify: 67108879
+CreateNotify: 67108881
+MapNotify: 67108879
+MapNotify: 33554444
+CreateNotify: 67108883
+file:///usr/share/plasma/look-and-feel/org.kde.breeze.desktop/contents/lockscreen/LockScreenUi.qml:98:103: Unable to assign int to QEasingCurve
+ktp-kded-module: 
+powerdevil: Kbd backlight brightness value:  0
+ktp-kded-module: 
+UnmapNotify: 67108879
+UnmapNotify: 67108879
+CreateNotify: 67108893
+Grab Released
+ktp-kded-module: 
+QXcbConnection: XCB error: 3 (BadWindow), sequence: 54289, resource id: 67108893, major code: 18 (ChangeProperty), minor code: 0
+QXcbConnection: XCB error: 2 (BadValue), sequence: 11157, resource id: 62914561, major code: 142 (Unknown), minor code: 3
+QXcbConnection: XCB error: 2 (BadValue), sequence: 11566, resource id: 62914561, major code: 142 (Unknown), minor code: 3
+()
+("/home/lusca1533/ExemploBranch/arquivo.txt")
+()
+libkcups: Renew-Subscription last error: 0 successful-ok
+()
+("/home/lusca1533/ExemploBranch/Lucas.txt")
+()
+()
+("/home/lusca1533/ExemploBranch/Lucas.txt")
+()
+org.kde.baloo: "/home/lusca1533/.gitconfig.lock" -> "/home/lusca1533/.gitconfig"
+org.kde.baloo: Moved without data
+org.kde.baloo: "/home/lusca1533/.gitconfig.lock" -> "/home/lusca1533/.gitconfig"
+org.kde.baloo: Moved without data
+lock called
+Lock window Id:  33554450
+CreateNotify: 33554450
+UnmapNotify: 33554450
+CreateNotify: 67108867
+CreateNotify: 67108873
+CreateNotify: 67108877
+CreateNotify: 67108879
+CreateNotify: 67108881
+MapNotify: 67108879
+MapNotify: 33554450
+CreateNotify: 67108883
+file:///usr/share/plasma/look-and-feel/org.kde.breeze.desktop/contents/lockscreen/LockScreenUi.qml:98:103: Unable to assign int to QEasingCurve
+ktp-kded-module: 
+UnmapNotify: 67108879
+UnmapNotify: 67108879
+CreateNotify: 67108893
+Grab Released
+ktp-kded-module: 
+QXcbConnection: XCB error: 3 (BadWindow), sequence: 27496, resource id: 67108893, major code: 18 (ChangeProperty), minor code: 0

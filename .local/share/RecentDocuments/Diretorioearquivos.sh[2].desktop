@@ -1,0 +1,6 @@
+[Desktop Entry]
+Icon=application-x-shellscript
+Name=Diretorioearquivos.sh
+Type=Link
+URL[$e]=file:$HOME/Comandosshell/Diretorioearquivos.sh
+X-KDE-LastOpenedWith=kate

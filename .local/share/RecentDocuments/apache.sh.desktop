@@ -1,0 +1,6 @@
+[Desktop Entry]
+Icon=application-x-shellscript
+Name=apache.sh
+Type=Link
+URL[$e]=file:$HOME/Comandosshell/apache.sh
+X-KDE-LastOpenedWith=kate

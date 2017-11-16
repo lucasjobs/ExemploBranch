@@ -1,0 +1,35 @@
+[FileDialogSize]
+Height 395=336
+Width 1032=640
+
+[General]
+Config Revision=10
+Days Meta Infos=30
+Last Session=
+Save Meta Infos=true
+Show Full Path in Title=false
+Show Menu Bar=false
+Show Status Bar=true
+Show Tab Bar=true
+
+[KFileDialog Settings]
+Recent Files[$e]=file:$HOME/Comandosshell/primeirodialogo.sh,file:$HOME/Comandosshell/instalador.sh,file:$HOME/Comandosshell/cadastro.sh,file:$HOME/Comandosshell/mariadb.sh,file:$HOME/Comandosshell/apache.sh,file:$HOME/Comandosshell/Diretorioearquivos.sh,file:$HOME/Comandosshell/dialogoselecionararquivos.sh,file:$HOME/Comandosshell/dialogoradio.sh,file:$HOME/Comandosshell/dialogochckelist.sh,file:$HOME/Comandosshell/sublime.sh,file:$HOME/Comandosshell/php.sh,file:$HOME/Comandosshell/mysql.sh,file:$HOME/Comandosshell/java.sh,file:$HOME/Comandosshell/google.sh,file:$HOME/Comandosshell/dialogoentrada.sh
+Recent URLs[$e]=file:///bin/,remote:/,file:$HOME/Público/,file:$HOME/Comandosshell/,trash:/,file:///home/
+
+[MainWindow]
+Height 395=332
+Height 795=588
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAABEoAAAHtAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+Width 1032=732
+Width 1600=1098
+Window-Maximized 795x1600=true
+
+[filetree]
+editShade=179,218,246
+listMode=false
+shadingEnabled=true
+showFullPathOnRoots=false
+sortRole=0
+viewShade=193,208,209

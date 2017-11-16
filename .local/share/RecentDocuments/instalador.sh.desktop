@@ -1,0 +1,6 @@
+[Desktop Entry]
+Icon=application-x-shellscript
+Name=instalador.sh
+Type=Link
+URL[$e]=file:$HOME/Comandosshell/instalador.sh
+X-KDE-LastOpenedWith=kate

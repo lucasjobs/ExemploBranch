@@ -1,0 +1,6 @@
+[Desktop Entry]
+Icon=application-x-shellscript
+Name=dialogoradio.sh
+Type=Link
+URL[$e]=file:$HOME/Comandosshell/dialogoradio.sh
+X-KDE-LastOpenedWith=kate

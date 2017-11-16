@@ -1,0 +1,2 @@
+echo "Texto qualquer"
+echo "Novo texto"

@@ -1,0 +1,172 @@
+[Document 0]
+Bookmarks=
+Encoding=UTF-8
+Highlighting=Bash
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Bash
+URL=file:///home/lusca1533/Comandosshell/instalador.sh
+
+[Document 1]
+Bookmarks=
+Encoding=UTF-8
+Highlighting=Bash
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Bash
+URL=file:///home/lusca1533/Comandosshell/dialogoradio.sh
+
+[Kate Plugins]
+katebacktracebrowserplugin=false
+katebuildplugin=false
+katecloseexceptplugin=false
+katectagsplugin=false
+katefilebrowserplugin=false
+katefiletreeplugin=true
+kategdbplugin=false
+katekonsoleplugin=false
+kateopenheaderplugin=false
+kateprojectplugin=true
+katereplicodeplugin=false
+katesearchplugin=true
+katesnippetsplugin=false
+katesqlplugin=false
+katesymbolviewerplugin=false
+katexmlcheckplugin=false
+katexmltoolsplugin=false
+kterustcompletionplugin=false
+ktexteditor_lumen=false
+tabswitcherplugin=true
+textfilterplugin=false
+
+[MainWindow0]
+Active ViewSpace=0
+Height 795=588
+Kate-MDI-H-Splitter=160,1409,200
+Kate-MDI-Sidebar-0-Splitter=736
+Kate-MDI-Sidebar-1-Splitter=
+Kate-MDI-Sidebar-2-Splitter=
+Kate-MDI-Sidebar-3-Splitter=0
+Kate-MDI-Sidebar-Style=2
+Kate-MDI-Sidebar-Visible=true
+Kate-MDI-ToolView-kate_plugin_katesearch-Persistent=false
+Kate-MDI-ToolView-kate_plugin_katesearch-Position=3
+Kate-MDI-ToolView-kate_plugin_katesearch-Sidebar-Position=0
+Kate-MDI-ToolView-kate_plugin_katesearch-Visible=false
+Kate-MDI-ToolView-kate_private_plugin_katefiletreeplugin-Persistent=false
+Kate-MDI-ToolView-kate_private_plugin_katefiletreeplugin-Position=0
+Kate-MDI-ToolView-kate_private_plugin_katefiletreeplugin-Sidebar-Position=0
+Kate-MDI-ToolView-kate_private_plugin_katefiletreeplugin-Visible=true
+Kate-MDI-V-Splitter=150,706,200
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAABkAAAALgAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
+Width 1600=1098
+Window-Maximized 795x1600=true
+
+[MainWindow0 Settings]
+Height 795=588
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAABkAAAALgAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
+Width 1600=1098
+Window-Maximized 795x1600=true
+WindowState=10
+
+[MainWindow0-Splitter 0]
+Children=MainWindow0-ViewSpace 0
+Orientation=1
+Sizes=1409
+
+[MainWindow0-ViewSpace 0]
+Active View=file:///home/lusca1533/Comandosshell/instalador.sh
+Count=1
+Documents=file:///home/lusca1533/Comandosshell/instalador.sh
+View 0=file:///home/lusca1533/Comandosshell/instalador.sh
+View 1=file:///home/lusca1533/Comandosshell/cadastro.sh
+
+[MainWindow0-ViewSpace 0 file:///bin/bash]
+CursorColumn=0
+CursorLine=0
+JumpList=
+TextFolding=[]
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/lusca1533/Comandosshell/Diretorioearquivos.sh]
+CursorColumn=21
+CursorLine=15
+JumpList=
+TextFolding=[]
+ViMarks=.,17,22,[,17,22,],17,22
+
+[MainWindow0-ViewSpace 0 file:///home/lusca1533/Comandosshell/cadastro.sh]
+CursorColumn=102
+CursorLine=8
+JumpList=
+TextFolding=[]
+ViMarks=.,8,102,[,8,102,],8,102
+
+[MainWindow0-ViewSpace 0 file:///home/lusca1533/Comandosshell/dialogoradio.sh]
+CursorColumn=0
+CursorLine=10
+JumpList=
+TextFolding=[]
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/lusca1533/Comandosshell/instalador.sh]
+CursorColumn=2
+CursorLine=31
+JumpList=
+TextFolding=[]
+ViMarks=.,29,5,[,29,3,],29,5
+
+[MainWindow0-ViewSpace 0 file:///home/lusca1533/Comandosshell/listarecopiar.sh]
+CursorColumn=0
+CursorLine=13
+JumpList=
+TextFolding=[]
+ViMarks=.,12,21,[,11,24,],12,21
+
+[Open Documents]
+Count=1
+
+[Open MainWindows]
+Count=1
+
+[Plugin:katesearchplugin:MainWindow:0]
+BinaryFiles=false
+CurrentExcludeFilter=-1
+CurrentFilter=-1
+ExcludeFilters=
+ExpandSearchResults=false
+Filters=
+FollowSymLink=false
+HiddenFiles=false
+MatchCase=false
+Place=1
+Recursive=true
+Replaces=
+Search=
+SearchDiskFiles=
+SearchDiskFiless=
+UseRegExp=false
+
+[Recent Files]
+File1[$e]=$HOME/Comandosshell/php.sh
+File10[$e]=$HOME/Comandosshell/instalador.sh
+File2[$e]=$HOME/Comandosshell/sublime.sh
+File3[$e]=$HOME/Comandosshell/dialogochckelist.sh
+File4[$e]=$HOME/Comandosshell/dialogoradio.sh
+File5[$e]=$HOME/Comandosshell/dialogoselecionararquivos.sh
+File6[$e]=$HOME/Comandosshell/Diretorioearquivos.sh
+File7[$e]=$HOME/Comandosshell/apache.sh
+File8[$e]=$HOME/Comandosshell/mariadb.sh
+File9[$e]=$HOME/Comandosshell/cadastro.sh
+Name1[$e]=php.sh
+Name10[$e]=instalador.sh
+Name2[$e]=sublime.sh
+Name3[$e]=dialogochckelist.sh
+Name4[$e]=dialogoradio.sh
+Name5[$e]=dialogoselecionararquivos.sh
+Name6[$e]=Diretorioearquivos.sh
+Name7[$e]=apache.sh
+Name8[$e]=mariadb.sh
+Name9[$e]=cadastro.sh

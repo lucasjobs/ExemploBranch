@@ -1,0 +1,6 @@
+[Desktop Entry]
+Icon=application-x-shellscript
+Name=cadastro.sh
+Type=Link
+URL[$e]=file:$HOME/Comandosshell/cadastro.sh
+X-KDE-LastOpenedWith=kate

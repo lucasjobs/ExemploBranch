@@ -1,0 +1,6 @@
+[Desktop Entry]
+Icon=application-x-shellscript
+Name=mariadb.sh
+Type=Link
+URL[$e]=file:$HOME/Comandosshell/mariadb.sh
+X-KDE-LastOpenedWith=kate
