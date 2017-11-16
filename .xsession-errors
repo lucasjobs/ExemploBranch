@@ -553,3 +553,32 @@ CreateNotify: 67108893
 Grab Released
 ktp-kded-module: 
 QXcbConnection: XCB error: 3 (BadWindow), sequence: 27496, resource id: 67108893, major code: 18 (ChangeProperty), minor code: 0
+file:///usr/lib/x86_64-linux-gnu/qt5/qml/QtQuick/Controls/Button.qml:99: TypeError: Cannot read property of null
+file:///usr/share/plasma/plasmoids/org.kde.plasma.taskmanager/contents/ui/Task.qml:44:32: Unable to assign [undefined] to int
+QXcbConnection: XCB error: 3 (BadWindow), sequence: 35507, resource id: 44040439, major code: 18 (ChangeProperty), minor code: 0
+file:///usr/share/plasma/plasmoids/org.kde.plasma.taskmanager/contents/ui/Task.qml:44:32: Unable to assign [undefined] to int
+QXcbConnection: XCB error: 3 (BadWindow), sequence: 36109, resource id: 67108866, major code: 18 (ChangeProperty), minor code: 0
+Creating the cache for:  "applications:firefox.desktop"
+Already in database?  true
+      First update :  QDateTime(2017-11-07 10:00:37.000 -02 Qt::TimeSpec(LocalTime))
+       Last update :  QDateTime(2017-11-13 08:54:55.000 -02 Qt::TimeSpec(LocalTime))
+After the adjustment
+     Current score :  2.56857
+      First update :  QDateTime(2017-11-07 10:00:37.000 -02 Qt::TimeSpec(LocalTime))
+       Last update :  QDateTime(2017-11-13 08:54:55.000 -02 Qt::TimeSpec(LocalTime))
+Interval length is  0
+         New score :  3.56857
+ResourceScoreUpdated: "85a63dd8-84f1-476d-8ea3-0d2a84c65c2d" "org.kde.plasma.kicker" "applications:firefox.desktop"
+QXcbConnection: XCB error: 2 (BadValue), sequence: 17265, resource id: 62914561, major code: 142 (Unknown), minor code: 3
+QXcbConnection: XCB error: 2 (BadValue), sequence: 17419, resource id: 62914561, major code: 142 (Unknown), minor code: 3
+QXcbConnection: XCB error: 2 (BadValue), sequence: 17421, resource id: 62914561, major code: 142 (Unknown), minor code: 3
+QXcbConnection: XCB error: 2 (BadValue), sequence: 17511, resource id: 62914561, major code: 142 (Unknown), minor code: 3
+[Parent 4324] WARNING: waitpid failed pid:4396 errno:10: file /build/firefox-vapeRh/firefox-56.0+build6/ipc/chromium/src/base/process_util_posix.cc, line 276
+QXcbConnection: XCB error: 2 (BadValue), sequence: 18225, resource id: 69206032, major code: 142 (Unknown), minor code: 3
+QXcbConnection: XCB error: 2 (BadValue), sequence: 18252, resource id: 62914561, major code: 142 (Unknown), minor code: 3
+QXcbConnection: XCB error: 2 (BadValue), sequence: 18750, resource id: 69206032, major code: 142 (Unknown), minor code: 3
+QXcbConnection: XCB error: 2 (BadValue), sequence: 18811, resource id: 62914561, major code: 142 (Unknown), minor code: 3
+QXcbConnection: XCB error: 2 (BadValue), sequence: 19086, resource id: 69206032, major code: 142 (Unknown), minor code: 3
+QXcbConnection: XCB error: 2 (BadValue), sequence: 19102, resource id: 62914561, major code: 142 (Unknown), minor code: 3
+QXcbConnection: XCB error: 2 (BadValue), sequence: 19172, resource id: 69206032, major code: 142 (Unknown), minor code: 3
+QXcbConnection: XCB error: 2 (BadValue), sequence: 19505, resource id: 62914561, major code: 142 (Unknown), minor code: 3

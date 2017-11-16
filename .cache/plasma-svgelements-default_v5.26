@@ -182,6 +182,10 @@ invalidElements=Natural_current-color-scheme_0_1,48_48_hint-apply-color-scheme_0
 _Natural_1Size=0,0,48,48
 invalidElements=114_114_kate_0_1,Natural_kate_0_1,Natural_hint-apply-color-scheme_0_1,114_114_utilities-terminal_0_1,114_114_firefox_0_1,114_114_system-file-manager_0_1,114_114_current-color-scheme_0_1,Natural_firefox_0_1,Natural_system-file-manager_0_1,Natural_current-color-scheme_0_1,48_48_hint-apply-color-scheme_0_1,114_114_hint-apply-color-scheme_0_1
 
+[/usr/share/icons/breeze/categories/32/applications-development.svg]
+_Natural_1Size=0,0,32,32
+invalidElements=Natural_current-color-scheme_0_1,32_32_hint-apply-color-scheme_0_1,Natural_applications-development_0_1
+
 [/usr/share/icons/breeze/categories/32/applications-education.svg]
 _Natural_1Size=0,0,32,32
 invalidElements=Natural_current-color-scheme_0_1,Natural_applications-education_0_1,32_32_hint-apply-color-scheme_0_1
@@ -196,7 +200,7 @@ invalidElements=Natural_current-color-scheme_0_1,Natural_applications-multimedia
 
 [/usr/share/icons/breeze/categories/32/applications-office.svg]
 _Natural_1Size=0,0,32,32
-invalidElements=Natural_current-color-scheme_0_1,Natural_applications-office_0_1,32_32_hint-apply-color-scheme_0_1
+invalidElements=Natural_applications-office_0_1,Natural_current-color-scheme_0_1,32_32_hint-apply-color-scheme_0_1
 
 [/usr/share/icons/breeze/categories/32/applications-other.svg]
 _Natural_1Size=0,0,32,32
@@ -208,7 +212,7 @@ invalidElements=Natural_current-color-scheme_0_1,Natural_applications-system_0_1
 
 [/usr/share/icons/breeze/categories/32/applications-utilities.svg]
 _Natural_1Size=0,0,32,32
-invalidElements=Natural_current-color-scheme_0_1,Natural_applications-utilities_0_1,32_32_hint-apply-color-scheme_0_1
+invalidElements=Natural_applications-utilities_0_1,Natural_current-color-scheme_0_1,32_32_hint-apply-color-scheme_0_1
 
 [/usr/share/icons/breeze/devices/16/audio-input-microphone.svg]
 _Natural_1Size=0,0,16,16
@@ -284,7 +288,7 @@ invalidElements=Natural_user-trash-full_0_1,64_64_hint-apply-color-scheme_0_1,Na
 
 [/usr/share/icons/breeze/preferences/32/applications-internet.svg]
 _Natural_1Size=0,0,32,32
-invalidElements=Natural_current-color-scheme_0_1,Natural_applications-internet_0_1,32_32_hint-apply-color-scheme_0_1
+invalidElements=Natural_applications-internet_0_1,Natural_current-color-scheme_0_1,32_32_hint-apply-color-scheme_0_1
 
 [/usr/share/icons/breeze/preferences/32/face-smile.svg]
 _Natural_1Size=0,0,32,32
